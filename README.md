@@ -19,4 +19,6 @@ This project demonstrates **Object-Oriented Programming (OOP)**, **input validat
 - Object-Oriented Programming (OOP)  
 - `Scanner` for user input  
 - `ArrayList` for storing transactions  
-- `LocalDateTime` for timestamps  
+- `LocalDateTime` for timestamps
+
+---
